@@ -1,0 +1,6 @@
+[submodule "frontend-exercises"]
+	path = frontend-exercises
+	url = https://github.com/sams05/fso-part5-frontend-exercises
+[submodule "e2e-exercises"]
+	path = e2e-exercises
+	url = https://github.com/sams05/fso-part5-e2e-exercises
